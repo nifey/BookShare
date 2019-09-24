@@ -19,3 +19,16 @@ Users can
 
 Admin users can
 * Add books
+
+
+## Start Server
+To start the server run
+* Run the migrations
+`python manage.py makemigrations`
+`python manage.py migrate`
+
+* Create a superuser
+`python manage.py createsuperuser`
+
+* Start the server
+`python manage.py runserver`
