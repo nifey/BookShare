@@ -23,6 +23,10 @@ Admin users can
 
 ## Start Server
 To start the server run
+* Install the requirements
+`pip install -r requirements.txt`
+
+
 * Run the migrations
 `python manage.py makemigrations`
 `python manage.py migrate`
