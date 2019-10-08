@@ -2,6 +2,7 @@ from rest_framework import views
 from .serializers import CreateUserSerializer
 from rest_framework.response import Response
 from .models import User
+from rest_framework.permissions import IsAuthenticated
 
 
 class CreateUserView(views.APIView):
@@ -19,4 +20,19 @@ class CreateUserView(views.APIView):
             return Response(serializer.data, status=200)
         else:
             return Response(serializer.errors, status=500)
+
+
+class ResetPasswordView(views.APIView):
+    def post(self, request):
+        pass
+
+
+class sendResetPasswordMail(views.APIView):
+    def get(self, request):
+        pass
+
+
+
+
+
 
