@@ -1,0 +1,21 @@
+2019/05/23 16:14:09:658 Postman-1558590184115 Swapping the old app with new one
+2019/05/23 16:14:09:770 Postman-1558590184115 Swapping done
+2019/05/23 16:14:09:864 Postman-1558590184115 Parent process is alive, killing it now
+2019/07/08 11:53:02:493 Postman-1562563878969 Swapping the old app with new one
+2019/07/08 11:53:02:894 Postman-1562563878969 Swapping done
+2019/07/08 11:53:03:051 Postman-1562563878969 Parent process is alive, killing it now
+2019/07/25 13:56:33:186 Postman-1564033538700 Swapping the old app with new one
+2019/07/25 13:56:33:297 Postman-1564033538700 Swapping done
+2019/07/25 13:56:33:312 Postman-1564033538700 Parent process is alive, killing it now
+2019/08/08 19:41:47:037 Postman-1565241776750 Swapping the old app with new one
+2019/08/08 19:41:47:519 Postman-1565241776750 Swapping done
+2019/08/08 19:41:47:948 Postman-1565241776750 Parent process is alive, killing it now
+2019/08/19 15:10:50:372 Postman-1566196677645 Swapping the old app with new one
+2019/08/19 15:10:51:058 Postman-1566196677645 Swapping done
+2019/08/19 15:10:54:503 Postman-1566196677645 Parent process is alive, killing it now
+2019/09/11 14:28:53:141 Postman-1568186291173 Swapping the old app with new one
+2019/09/11 14:28:53:192 Postman-1568186291173 Swapping done
+2019/09/11 14:28:53:208 Postman-1568186291173 Parent process is alive, killing it now
+2019/09/27 17:50:13:096 Postman-1569586413445 Swapping the old app with new one
+2019/09/27 17:50:13:105 Postman-1569586413445 Swapping done
+2019/09/27 17:50:13:162 Postman-1569586413445 Parent process is alive, killing it now
