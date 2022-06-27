@@ -31,7 +31,7 @@ python-dateutil==2.7.5
 python-utils==2.3.0
 pytz==2018.7
 redis==3.0.1
-reportlab==3.5.12
+reportlab==3.5.55
 requests==2.20.1
 requests-futures==0.9.9
 rest-condition==1.0.3
